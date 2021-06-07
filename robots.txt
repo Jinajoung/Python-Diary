@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://jinajoung.github.io/Python-Diary/sitemap.xml
